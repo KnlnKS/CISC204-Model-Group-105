@@ -1,6 +1,5 @@
 # Python Libraries
 import math
-import pickle
 import os
 from random import randrange as rand
 
@@ -15,10 +14,6 @@ from helper_functions.least_x_of_y import least_two_of_six as l2o6
 from helper_functions.least_x_of_y import least_four_of_six as l4o6
 from helper_functions.api_methods import calc, get_move_info, get_attacker, get_defender
 from helper_functions.type_resist import weak_to
-
-"""
-https://www.smogon.com/dex/sm/formats/ou/
-"""
 
 team_vars = []
 
@@ -238,7 +233,7 @@ if __name__ == "__main__":
     y, o = tg("documents/pokemon.txt")
 
     print('Hi, welcome to the Pokemon Battle Estimator!')
-    while choice <1 or choice >5:
+    while choice < 1 or choice > 5:
         print('Please choose from the following options.')
         print('1. Choose random Pokemon to face each other!')
         print('2. See how you fair with a team of strong Pokemon against weak ones!')
@@ -271,15 +266,26 @@ if __name__ == "__main__":
 
     T = theory(y, o)
 
-    with open("classes/theory.pyclass", 'wb+') as output:  # Overwrites any existing file.
-        pickle.dump(T, output, -1)
-
-    with open("classes/team.pyclass", 'wb+') as output:  # Overwrites any existing file.
-        pickle.dump(team_vars, output, -1)
-
-    with open("classes/pokemons.pyclass", 'wb+') as output:  # Overwrites any existing file.
-        pickle.dump(o, output, -1)
-
     print('\nDoing theory stuff...')
-    print()
-    os.system("ubuntu run python3 theory.py")
+    print("Possibility of Winning?: %s" % T.is_satisfiable())
+
+    chance = (T.count_solutions(team_vars) / T.count_solutions())
+    print("Estimated chance of winning:  %.2f" % chance)
+    if chance < 0.6:
+        print("You will probably lose.")
+    elif chance < 0.7:
+        print("It can go either way.")
+    else:
+        print("You will probably win!")
+    print('Theory Size: %d' % T.size())
+
+    worst = 1.0
+    name = ''
+    for v, vn in zip([team_vars[0], team_vars[1], team_vars[2], team_vars[3], team_vars[4], team_vars[5]],
+                     o):
+        x = T.likelihood(v)
+        if x < worst:
+            worst = x
+            name = vn['name']
+
+    print("Pokemon to watch out for:     %s" % name)

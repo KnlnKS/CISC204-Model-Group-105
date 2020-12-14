@@ -9,12 +9,8 @@ This project- named “GOTTA CATCH ‘EM ALL” aims to determine an estimate of
 ## Requirements
 * Node.js and NPM/Yarn
   * Needed as database/damage calculator is only available as a npm package
-* Ubuntu as OS or WSL
-  * Error with requirements library run running on windows.
-  * Note: This branch is run of 2 ways to run the program. Try the other if this one doesn't work
 
 ## Structure
-
 * `documents`: Contains folders for both of your draft and final submissions. README.md files are included in both.
 * `documents/teams`: Folders containing Pokemon Team Data. There is markdown located there explaining how to make custom teams.
 * `helper_functions`: Folder containing multiple methods used for the project including:
