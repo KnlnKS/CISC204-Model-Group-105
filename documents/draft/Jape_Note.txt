@@ -1,0 +1,29 @@
+My Jape has stopped working, and I dont know whyu. But this is basically what I would have done.
+
+Type Effectiveness:
+tc: Is your Pokemon's type strong against the opponent?
+s: Has your opponent switched out?
+y: Did your attack hit, or miss.
+
+t= ~(tc & s) | y
+
+Role Effectiveness:
+rc: Does your Pokemon's role have precedence/resistance against the opponent?
+s: Has your opponent switched out?
+o: Did your opponent's attack hit, or miss.
+
+r= ~(rc & s) | o
+
+Move Effectiveness:
+a: Is your Pokemon's move strong against the opponent?
+y: Did your attack hit, or miss.
+
+mx = ~a | y
+
+ms = ((m1 & (m2 | m3)) | (m2 & m3)) | ((m2 & (m3 | m4)) | (m3 & m4)) | ((m4 & (m1 | m2)) | (m1 & m2))
+
+p = (t | r) & ms
+
+Jape Part:
+
+((~(tc & s) | y) | (~(rc & s) | o)) & ((m1 & (m2 | m3)) | (m2 & m3)) | ((m2 & (m3 | m4)) | (m3 & m4)) | ((m4 & (m1 | m2)) | (m1 & m2))

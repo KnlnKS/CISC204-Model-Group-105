@@ -1,0 +1,388 @@
+Alakazam @ Alakazite
+Ability: Magic Guard
+EVs: 4 Def / 252 SpA / 252 Spe
+Strategy: Wall Breaker
+Timid Nature
+- Psychic
+- Focus Blast
+- Recover
+- Shadow Ball
+#End Pokemon
+
+Garchomp @ Garchompite
+Ability: Rough Skin
+EVs: 4 Atk / 252 SpA / 252 Spe
+Strategy: Wall Breaker
+Mild Nature
+- Stealth Rock
+- Earthquake
+- Draco Meteor
+- Fire Blast
+#End Pokemon
+
+Mamoswine @ Life Orb
+Ability: Thick Fat
+EVs: 252 Atk / 4 SpD / 252 Spe
+Strategy: Wall Breaker
+Adamant Nature
+- Ice Shard
+- Earthquake
+- Icicle Crash
+- Knock Off
+#End Pokemon
+
+Primarina @ Choice Specs
+Ability: Torrent
+EVs: 40 HP / 252 SpA / 216 Spe
+Strategy: Wall Breaker
+Modest Nature
+- Hydro Pump
+- Moonblast
+- Sparkling Aria
+- Psychic
+#End Pokemon
+
+Volcanion @ Choice Specs
+Ability: Water Absorb
+EVs: 40 HP / 252 SpA / 216 Spe
+Strategy: Wall Breaker
+Modest Nature
+- Defog
+- Steam Eruption
+- Flamethrower
+- Sludge Bomb
+#End Pokemon
+
+Starmie @ Life Orb
+Ability: Analytic
+EVs: 252 SpA / 4 SpD / 252 Spe
+Strategy: Wall Breaker
+Timid Nature
+- Hydro Pump
+- Ice Beam
+- Psyshock
+- Rapid Spin
+#End Pokemon
+
+Zeraora @ Life Orb
+Ability: Volt Absorb
+EVs: 252 Atk / 4 SpA / 252 Spe
+Strategy: Wall Breaker
+Naive Nature
+- Plasma Fists
+- Close Combat
+- Grass Knot
+- Knock Off
+#End Pokemon
+
+Kyurem-Black @ Icium Z
+Ability: Teravolt
+EVs: 252 Atk / 4 SpA / 252 Spe
+Strategy: Wall Breaker
+Naive Nature
+- Freeze Shock
+- Fusion Bolt
+- Ice Beam
+- Earth Power
+#End Pokemon
+
+Magearna @ Electrium Z
+Ability: Soul-Heart
+EVs: 252 SpA / 4 SpD / 252 Spe
+Strategy: Sweeper
+Timid Nature
+- Shift Gear
+- Thunderbolt
+- Ice Beam
+- Focus Blast
+#End Pokemon
+
+Kartana @ Normalium Z
+Ability: Beast Boost
+EVs: 252 Atk / 4 SpD / 252 Spe
+Strategy: Sweeper
+Jolly Nature
+- Swords Dance
+- Leaf Blade
+- Sacred Sword
+- Giga Impact
+#End Pokemon
+
+Greninja @ Choice Specs
+Ability: Battle Bond
+EVs: 4 Def / 252 SpA / 252 Spe
+Strategy: Sweeper
+Timid Nature
+- Hydro Pump
+- Dark Pulse
+- Water Shuriken
+- Spikes
+#End Pokemon
+
+Bisharp @ Life Orb
+Ability: Defiant
+EVs: 252 Atk / 4 SpD / 252 Spe
+Strategy: Sweeper
+Adamant Nature
+- Swords Dance
+- Knock Off
+- Iron Head
+- Sucker Punch
+#End Pokemon
+
+Celebi @ Psychium Z
+Ability: Natural Cure
+EVs: 4 Def / 252 SpA / 252 Spe
+Strategy: Sweeper
+Timid Nature
+- Nasty Plot
+- Psychic
+- Giga Drain
+- Dazzling Gleam
+#End Pokemon
+
+Hawlucha @ Electric Seed
+Ability: Unburden
+EVs: 96 HP / 252 Atk / 36 SpD / 124 Spe
+Strategy: Sweeper
+Adamant Nature
+- Acrobatics
+- Swords Dance
+- High Jump Kick
+- Roost
+#End Pokemon
+
+Crawdaunt @ Life Orb
+Ability: Adaptability
+EVs: 4 HP / 252 Atk / 252 Spe
+Strategy: Sweeper
+Jolly Nature
+- Swords Dance
+- Crabhammer
+- Knock Off
+- Aqua Jet
+#End Pokemon
+
+Feraligatr @ Life Orb
+Ability: Sheer Force
+EVs: 4 HP / 252 Atk / 252 Spe
+Strategy: Sweeper
+Jolly Nature
+- Dragon Dance
+- Liquidation
+- Ice Punch
+- Crunch
+#End Pokemon
+
+Empoleon @ Leftovers
+Ability: Torrent
+EVs: 252 HP / 76 Def / 180 SpD
+Strategy: Sweeper
+Calm Nature
+- Scald
+- Stealth Rock
+- Toxic
+- Protect
+#End Pokemon
+
+Lucario @ Life Orb
+Ability: Inner Focus
+Strategy: Sweeper
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Nasty Plot
+- Focus Blast
+- Flash Cannon
+- Vacuum Wave
+#End Pokemon
+
+Alomomola @ Leftovers
+Ability: Regenerator
+EVs: 40 HP / 252 Def / 216 SpD
+Strategy: Wall
+Bold Nature
+- Wish
+- Protect
+- Toxic
+- Scald
+#End Pokemon
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+EVs: 252 HP / 176 Def / 80 SpD
+Strategy: Wall
+Bold Nature
+- Spore
+- Giga Drain
+- Hidden Power Fire
+- Clear Smog
+#End Pokemon
+
+Mew @ Leftovers
+Ability: Synchronize
+EVs: 252 HP / 4 Def / 252 Spe
+Strategy: Wall
+Jolly Nature
+- Seismic Toss
+- Taunt
+- Will-O-Wisp
+- Soft-Boiled
+#End Pokemon
+
+Sylveon @ Leftovers
+Ability: Pixilate
+EVs: 252 HP / 252 Def / 4 SpA
+Strategy: Wall
+Bold Nature
+- Hyper Voice
+- Wish
+- Protect
+- Heal Bell
+#End Pokemon
+
+Heatran @ Leftovers
+Ability: Flash Fire
+EVs: 252 HP / 176 SpD / 80 Spe
+Strategy: Wall
+Calm Nature
+- Lava Plume
+- Toxic
+- Protect
+- Stealth Rock
+#End Pokemon
+
+Clefable @ Leftovers
+Ability: Magic Guard
+EVs: 252 HP / 252 Def / 4 SpD
+Strategy: Wall
+Bold Nature
+- Stealth Rock
+- Moonblast
+- Soft-Boiled
+- Calm Mind
+#End Pokemon
+
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 248 HP / 252 Def / 8 SpD
+Strategy: Wall
+Bold Nature
+- Seismic Toss
+- Toxic
+- Stealth Rock
+- Soft-Boiled
+#End Pokemon
+
+Celesteela @ Leftovers
+Ability: Beast Boost
+EVs: 248 HP / 28 Def / 232 SpD
+Strategy: Wall
+Sassy Nature
+- Leech Seed
+- Protect
+- Heavy Slam
+- Flamethrower
+#End Pokemon
+
+Toxapex @ Black Sludge
+Ability: Regenerator
+EVs: 252 HP / 4 Def / 252 SpD
+Strategy: Wall
+Calm Nature
+- Scald
+- Haze
+- Recover
+- Toxic
+#End Pokemon
+
+Togekiss @ Leftovers
+Ability: Serene Grace
+EVs: 252 HP / 4 SpA / 252 Spe
+Strategy: Wall
+Timid Nature
+- Nasty Plot
+- Heal Bell
+- Air Slash
+- Roost
+#End Pokemon
+
+Quagsire @ Leftovers
+Ability: Unaware
+EVs: 252 HP / 252 Def / 4 SpD
+Strategy: Wall
+Relaxed Nature
+- Scald
+- Earthquake
+- Recover
+- Toxic
+#End Pokemon
+
+
+
+
+
+Silvally-Fairy @ Fairy Memory
+Ability: RKS System
+EVs: 216 Atk / 40 Def / 252 Spe
+Strategy: Wall Breaker
+Jolly Nature
+- Multi-Attack
+- Flamethrower
+- Parting Shot
+- Defog
+#End Pokemon
+
+Primeape @ Choice Scarf
+Ability: Defiant
+EVs: 252 Atk / 4 Def / 252 Spe
+Strategy: Wall Breaker
+Jolly Nature
+- Close Combat
+- U-turn
+- Stone Edge
+- Gunk Shot
+#End Pokemon
+
+Oricorio-Pom-Pom @ Flyinium Z
+Ability: Dancer
+EVs: 248 HP / 8 Def / 252 Spe
+Strategy: Sweeper
+Timid Nature
+- Calm Mind
+- Roost
+- Hurricane
+- Hidden Power Fighting
+#End Pokemon
+
+Scyther @ Eviolite
+Ability: Technician
+EVs: 248 HP / 8 Atk / 252 Spe
+Strategy: Wall
+Jolly Nature
+- Swords Dance
+- U-turn
+- Aerial Ace
+- Roost
+#End Pokemon
+
+Sableye @ Leftovers
+Ability: Prankster
+EVs: 248 HP / 252 Def / 8 SpD
+Strategy: Wall
+Impish Nature
+- Taunt
+- Will-O-Wisp
+- Recover
+- Knock Off
+#End Pokemon
+
+Qwilfish @ Rocky Helmet
+Ability: Intimidate
+EVs: 252 HP / 4 Def / 252 Spe
+Strategy: Wall
+Timid Nature
+- Spikes
+- Scald
+- Taunt
+- Destiny Bond
+#End Pokemon

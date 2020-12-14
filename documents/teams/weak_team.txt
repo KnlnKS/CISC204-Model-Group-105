@@ -1,0 +1,65 @@
+Silvally-Fairy @ Fairy Memory
+Ability: RKS System
+EVs: 216 Atk / 40 Def / 252 Spe
+Strategy: Wall Breaker
+Jolly Nature
+- Multi-Attack
+- Flamethrower
+- Parting Shot
+- Defog
+#End Pokemon
+
+Primeape @ Choice Scarf
+Ability: Defiant
+EVs: 252 Atk / 4 Def / 252 Spe
+Strategy: Wall Breaker
+Jolly Nature
+- Close Combat
+- U-turn
+- Stone Edge
+- Gunk Shot
+#End Pokemon
+
+Oricorio-Pom-Pom @ Flyinium Z
+Ability: Dancer
+EVs: 248 HP / 8 Def / 252 Spe
+Strategy: Sweeper
+Timid Nature
+- Calm Mind
+- Roost
+- Hurricane
+- Hidden Power Fighting
+#End Pokemon
+
+Scyther @ Eviolite
+Ability: Technician
+EVs: 248 HP / 8 Atk / 252 Spe
+Strategy: Wall
+Jolly Nature
+- Swords Dance
+- U-turn
+- Aerial Ace
+- Roost
+#End Pokemon
+
+Sableye @ Leftovers
+Ability: Prankster
+EVs: 248 HP / 252 Def / 8 SpD
+Strategy: Wall
+Impish Nature
+- Taunt
+- Will-O-Wisp
+- Recover
+- Knock Off
+#End Pokemon
+
+Qwilfish @ Rocky Helmet
+Ability: Intimidate
+EVs: 252 HP / 4 Def / 252 Spe
+Strategy: Wall
+Timid Nature
+- Spikes
+- Scald
+- Taunt
+- Destiny Bond
+#End Pokemon

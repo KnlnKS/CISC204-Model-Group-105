@@ -1,0 +1,65 @@
+Toxapex @ Black Sludge
+Ability: Regenerator
+EVs: 252 HP / 4 Def / 252 SpD
+Strategy: Wall
+Calm Nature
+- Scald
+- Haze
+- Recover
+- Toxic
+#End Pokemon
+
+Greninja @ Choice Specs
+Ability: Battle Bond
+EVs: 4 Def / 252 SpA / 252 Spe
+Strategy: Sweeper
+Timid Nature
+- Hydro Pump
+- Dark Pulse
+- Water Shuriken
+- Spikes
+#End Pokemon
+
+Bisharp @ Life Orb
+Ability: Defiant
+EVs: 252 Atk / 4 SpD / 252 Spe
+Strategy: Sweeper
+Adamant Nature
+- Swords Dance
+- Knock Off
+- Iron Head
+- Sucker Punch
+#End Pokemon
+
+Kyurem-Black @ Icium Z
+Ability: Teravolt
+EVs: 252 Atk / 4 SpA / 252 Spe
+Strategy: Wall Breaker
+Naive Nature
+- Freeze Shock
+- Fusion Bolt
+- Ice Beam
+- Earth Power
+#End Pokemon
+
+Alakazam @ Alakazite
+Ability: Magic Guard
+EVs: 4 Def / 252 SpA / 252 Spe
+Strategy: Wall Breaker
+Timid Nature
+- Psychic
+- Focus Blast
+- Recover
+- Shadow Ball
+#End Pokemon
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+EVs: 252 HP / 176 Def / 80 SpD
+Strategy: Wall
+Bold Nature
+- Spore
+- Giga Drain
+- Hidden Power Fire
+- Clear Smog
+#End Pokemon
